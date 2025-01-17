@@ -11,7 +11,7 @@ PaoShou@buaa.edu.cn
 [[ORCID]](https://orcid.org/0009-0004-3153-5101)
 
 #### Education
-PH.D.,  Control Science and Engineering, at School of Astronautics, Beihang University, 2023—present.\
+Ph.D.,  Control Science and Engineering, at School of Astronautics, Beihang University, 2023—present.\
 B.E., Aircarft Control and Information Engineering, at School of Astronautics, Beihang University, 2019—2023.
 
 #### Research Interests
