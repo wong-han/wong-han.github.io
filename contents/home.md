@@ -1,6 +1,6 @@
 
 
-[![wong-Han](https://img.shields.io/badge/wong-han-github-blue?logo=github)](https://github.com/wong-han)
+[![wong-Han](https://img.shields.io/badge/wong_han-github-blue?logo=github)](https://github.com/wong-han)
 
 He is currently pursuing a Ph.D Degree in Control Science and Engineering, at School of Astronautics, Beihang University, China.
 
