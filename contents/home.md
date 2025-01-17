@@ -7,6 +7,9 @@ He is currently pursuing a Phd's Degree in Control Science and Engineering, at S
 #### Email
 PaoShou@buaa.edu.cn
 
+#### Acadymic Pages
+[[ORCID]](https://orcid.org/0009-0004-3153-5101)
+
 #### Education
 Phd.,  Control Science and Engineering, at School of Astronautics, Beihang University, 2023—present.\
 B.E., Aircarft Control and Information Engineering, at School of Astronautics, Beihang University, 2019—2023.
