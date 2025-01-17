@@ -1,4 +1,6 @@
-- The 18th "Challenge Cup" National College students extra-curricular Academic Science and technology special award, 2023.
+- The 18th "Challenge Cup" National College Student Extracurricular Academic and Technological Works Competition Special Award, 2023.T
 - Merit student of BUAA, 2020, 2021, 2022.
+- School of Aeronautic Science and Engineering Person of the Year nominated, 2022.
+
 
 
