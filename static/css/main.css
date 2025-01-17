@@ -91,7 +91,7 @@ section .main-body{
 #avatar {
     position: relative;
     height: 0;
-    top:min(-65px,max(-100px,calc(-1*100vw/12)));
+    top: min(-65px, max(-100px, calc(-1 * 100vw / 12)));
     max-width: 55em;
     margin: 0 1.5rem 0 0;
     float: right;
@@ -99,7 +99,9 @@ section .main-body{
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
+    /* Enlarge the image */
+    height: max(200px, min(350px, calc(100vw / 3))); /* Increased the maximum height and adjusted the viewport width ratio */
+    width: auto; /* Maintain the original aspect ratio */
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
