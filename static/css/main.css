@@ -92,15 +92,15 @@ section .main-body{
     position: relative;
     height: 0;
     top: min(-65px, max(-100px, calc(-1 * 100vw / 12)));
-    max-width: 55em;
+    max-width: 110em;
     margin: 0 1.5rem 0 0;
     float: right;
     z-index: 9000;
 }
 
 #avatar img {
-    /* Enlarge the image */
-    height: max(200px, min(350px, calc(100vw / 3))); /* Increased the maximum height and adjusted the viewport width ratio */
+    /* Double the size of the image */
+    height: max(260px, min(400px, calc(100vw / 3))); /* Doubled the original height values */
     width: auto; /* Maintain the original aspect ratio */
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
