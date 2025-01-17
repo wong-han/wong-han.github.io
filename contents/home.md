@@ -2,7 +2,7 @@
 
 [![PaoShou-China](https://img.shields.io/badge/PaoShou_China-github-blue?logo=github)](https://github.com/PaoShou-China)
 
-He is currently pursuing a Phd's Degree in Control Science and Engineering, at School of Astronautics, Beihang University, China.
+He is currently pursuing a Ph.D Degree in Control Science and Engineering, at School of Astronautics, Beihang University, China.
 
 #### Email
 PaoShou@buaa.edu.cn
