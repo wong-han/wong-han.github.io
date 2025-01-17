@@ -5,7 +5,7 @@
 He is currently pursuing a Phd's Degree in Control Science and Engineering, at School of Astronautics, Beihang University, China.
 
 #### Email
-PaoShou[at]buaa.edu.cn
+PaoShou@buaa.edu.cn
 
 #### Education
 Phd.,  Control Science and Engineering, at School of Astronautics, Beihang University, 2023—present.\
